@@ -1,0 +1,2 @@
+# adatb
+php sql használata
